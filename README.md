@@ -15,9 +15,13 @@
 
 # ! WIP
 
-<h2 align="center">Install<h2>
+<h2 align="center">Install</h2>
 
-<h2 align="center">Usage<h2>
+```bash
+npm i -D posthtml-inject
+```
+
+<h2 align="center">Usage</h2>
 
 #### Images
 ```txt
@@ -38,9 +42,9 @@ inject(img='photo.png' lazy)
 <script>LazyJS..</script>
 ```
 
-<h2 align="center">Example<h2>
+<h2 align="center">Example</h2>
 
-<h2 align="center">LICENSE<h2>
+<h2 align="center">LICENSE</h2>
 
 > MIT License (MIT)
 
