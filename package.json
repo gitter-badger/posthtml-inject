@@ -1,0 +1,20 @@
+{
+  "name": "posthtml-inject",
+  "version": "0.1.0",
+  "description": "Inject for PostHTML",
+  "engines": {"node": ">=4", "npm": ">=3"},
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "posthtml": "0.8.7"
+  },
+  "author": {
+    "name": "Michael Ciniawky",
+    "email": "michael.ciniawsky@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/posthtml/posthtml-inject"
+  },
+  "license": "MIT"
+}
