@@ -1,20 +1,32 @@
 {
   "name": "posthtml-inject",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Inject for PostHTML",
   "engines": {"node": ">=4", "npm": ">=3"},
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "posthtml": "0.8.7"
+    "ava": "^0.15.2",
+    "coveralls": "^2.11.9",
+    "nyc": "^7.0.0",
+    "posthtml": "^0.9.0",
+    "standard": "^7.1.2"
   },
+  "keywords": [
+    "html",
+    "posthtmlplugin"
+  ],
   "author": {
     "name": "Michael Ciniawky",
     "email": "michael.ciniawsky@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/posthtml/posthtml-inject"
+    "url": "https://github.com/posthtml/posthtml-export"
   },
+  "bugs": {
+    "url": "https://github.com/posthtml/posthtml-export/issues"
+  },
+  "homepage": "https://github.com/posthtml/posthtml-export#readme",
   "license": "MIT"
 }
