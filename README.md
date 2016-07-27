@@ -15,6 +15,8 @@
 
 # ! WIP
 
+[![Join the chat at https://gitter.im/posthtml/posthtml-inject](https://badges.gitter.im/posthtml/posthtml-inject.svg)](https://gitter.im/posthtml/posthtml-inject?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <h2 align="center">Install</h2>
 
 ```bash
